@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RyanDelarge
-- 👀 I’m interested in continuing to master Python, learning and subsequently mastering Swift, and getting hired as an IOS program developer
-- 🌱 I’m currently learning Python and Swift
+- 👀 I’m interested in continuing to master Python, continuing to master Swift, and getting hired as an IOS program developer
 - 💞️ I’m looking to collaborate on projects I can use for my portfolio
 - 📫 How to reach me ryantsmith.business@gmail.com
 
